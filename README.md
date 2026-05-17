@@ -9,7 +9,3 @@ Este projeto aplica técnicas de Inteligência Artificial para a predição de c
 * Lucas dos Santos Miranda
 * Lucas Pinto Avelar
 * Ramon Pedro Pereira Santos
-
-**Disciplina:** Inteligência Artificial (TCC00297)  
-**Professora:** Taiane Coelho Ramos  
-**Instituição:** Instituto de Computação (IC) - Universidade Federal Fluminense
