@@ -10,7 +10,7 @@ Este projeto aplica técnicas de Inteligência Artificial para a predição de c
 * **Modelagem Preditiva:** Scikit-Learn
 * **Ambiente de Desenvolvimento:** Jupyter Notebook
 
-## 👥 Integrantes (Grupo 6 - UFF)
+## 👥 Integrantes
 
 * Bernardo Mendes Rebello
 * Carolina Lucero Vieira Ananos
